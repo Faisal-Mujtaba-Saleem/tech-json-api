@@ -1,0 +1,136 @@
+{
+  "hero-items": [
+    {
+      "id": "1",
+      "title": "Web and mobile payment built for developers",
+      "content": "Our innovative web and mobile payment solutions make transactions fast, secure, and effortless for both you and your customers. Say goodbye to the hassle of traditional payment methods and embrace the future of seamless payments."
+    },
+    {
+      "id": "2",
+      "title": "Work better together. Schedule meetings",
+      "content": "Collaborate and achieve your goals as a team. Join forces, share ideas and leverage each others strengths to reach new heights together. Let's work together and create a brighter future for us all."
+    },
+    {
+      "id": "3",
+      "title": "The best app to increase your productivity",
+      "content": "Boost your productivity and streamline your workday with our cutting-edge app. Stay organized, prioritize tasks, and never miss a deadline. Get more done in less time and achieve your goals faster than ever before."
+    }
+  ],
+
+  "about-items": [
+    {
+      "key": "1",
+      "icon": "<i class=\"fas fa-3x fa-chart-pie\" style=\"color: #1890ff\"></i>",
+      "title": "High Performance",
+      "content": "Elevate your game with high-performance technology. Enjoy seamless, efficient and powerful experiences."
+    },
+    {
+      "key": "2",
+      "icon": "<i class=\"fas fa-3x fa-desktop\" style=\"color: #1890ff\"></i>",
+      "title": "Flat Design",
+      "content": "Simplify your aesthetic with flat design. Clean, modern, and minimal design elements for a fresh look."
+    },
+    {
+      "key": "3",
+      "icon": "<i class=\"fas fa-3x fa-database\" style=\"color: #1890ff\"></i>",
+      "title": "Simplified Workflow",
+      "content": "Streamline your work with our intuitive and efficient workflow solution. Get more done, faster and with ease."
+    }
+  ],
+
+  "features": [
+    {
+      "title": "Modern Design",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/modern-design.930b558d.jpg"
+    },
+    {
+      "title": "Clean and Elegant",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/clean-design.0f928231.jpg"
+    },
+    {
+      "title": "Great Support",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/great-support.b6918a9f.jpg"
+    },
+    {
+      "title": "Easy to customise",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/easy-customise.80fba52b.jpg"
+    },
+    {
+      "title": "Unlimited Features",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/unlimited-features.7e97e67b.jpg"
+    },
+    {
+      "title": "Advanced Options",
+      "image": "http://bibekshakya.com/demo/react/antdesign/tech/static/media/advanced-option.c294df00.jpg"
+    }
+  ],
+
+  "FAQs": [
+    {
+      "header": "How to setup the theme?",
+      "para": "Get your website up and running in no time with our user-friendly setup theme. Experience seamless customization options and enjoy a stress-free launch with our step-by-step guide. Upgrade your online presence with a professional look that's tailored to your brand."
+    },
+    {
+      "header": "Can I change plan or cancel at any time?",
+      "para": "We understand that plans can change, and that's why we offer a flexible cancelation policy for our customers. If you need to cancel your plan, please contact our support team for assistance. We'll do our best to make the process as smooth and hassle-free as possible."
+    },
+    {
+      "header": "How to access through cloud?",
+      "para": "Access your data anytime, anywhere with our cloud-based solution. No more limitations, enjoy seamless access to your information from any device with internet connection. Say goodbye to traditional setup, embrace the future of tech with us."
+    },
+    {
+      "header": "Can I manage multiple task?",
+      "para": "Maximize your productivity and efficiency with our app's ability to handle multiple tasks seamlessly. Say goodbye to juggling between multiple windows and programs and hello to effortless multitasking."
+    },
+    {
+      "header": "How can I change my password?",
+      "para": "Simplify your life with our easy-to-use password change title. Securely update your password in just a few clicks, ensuring maximum protection for your data and peace of mind for you. Try it now!"
+    },
+    {
+      "header": "How to manage my account?",
+      "para": "Manage all your accounts in one place with our streamlined and secure account management system. Easily update personal information, change passwords, and track account activity. Simplify your life and stay in control with our user-friendly platform."
+    }
+  ],
+
+  "pricings": [
+    {
+      "title": "Basic",
+      "content": [
+        {
+          "price": "£29.99",
+          "space": "1 GB of space",
+          "user": "1 user",
+          "support": "24/7 support",
+          "backup": "Safe, reliable backup",
+          "access": "Access from anywhere"
+        }
+      ]
+    },
+    {
+      "title": "Premium",
+      "content": [
+        {
+          "price": "£59.99",
+          "space": "5 GB of space",
+          "user": "5 users",
+          "support": "24/7 support",
+          "backup": "Safe, reliable backup",
+          "access": "Access from anywhere"
+        }
+      ]
+    },
+    {
+      "title": "Enterprise",
+      "content": [
+        {
+          "price": "£99.99",
+          "space": "Unlimited space",
+          "user": "15 users",
+          "support": "24/7 support",
+          "backup": "Safe, reliable backup",
+          "access": "Access from anywhere"
+        }
+      ]
+    }
+  ]
+}
